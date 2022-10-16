@@ -61,6 +61,8 @@
 
 <br><br><br>
 
+<hr>
+
 <details>
   <summary><h3>Stats</h3></summary>
   <div align="center">
