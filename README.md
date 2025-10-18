@@ -4,7 +4,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rebecacuevas" alt="rebecacuevas" /></a> </p> <br>
 
 
-🧠 Automation Tech Lead | 🛠️ Smart Contract Engineer (in the making)  
+🧠 Automation Tech Lead | 🛠️ Smart Contract Engineer | Post-quantum Blockchain Security  
 🌍 Founder of **Ekogroup México** — local chapter of [Ekoparty](https://ekoparty.org/), LATAM’s biggest cybersecurity conference  
 🧬 AI Agents & OSINT Explorer | 🇲🇽 Based in Mexico  
 
@@ -12,7 +12,7 @@
 
 ## ⚡ About Me
 
-I'm Rebeca, a Process Automation Tech Lead in the banking industry. After years of building systems in centralized finance and Web2, I made the decision to pivot. Now, I’m on the path to becoming a Smart Contract Engineer, with a sharp eye for intelligent systems, decentralized logic, and real-world coordination.
+I'm Rebeca, a Process Automation Tech Lead in the banking industry. After years of building systems in centralized finance and Web2, I made the decision to go on-chain. Now, I’m on the path to becoming a Smart Contract Engineer, with a sharp eye for intelligent systems, decentralized logic and post-quantum security. 
 
 My foundation is in automation, but curiosity drives me to explore where systems and intelligence intersect: whether it’s on-chain, through AI agents, or via open-source intelligence (OSINT).
 
