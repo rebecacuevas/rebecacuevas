@@ -2,14 +2,13 @@
 <h3 align="center">Software developer by day, builder by night </h3><br>
 
 
-🧠 Automation Tech Lead | 🛠️ Smart Contract Security Engineer 
-🧬 AI Engineering & OSINT Explorer
+🧠 Automation Tech Lead 🛠️ Smart Contract Security Engineer 🧬 AI Engineering & OSINT Explorer
 
 ---
 
 ## ⚡ About Me
 
-I'm Rebeca, a Process Automation Tech Lead in the banking industry. After years of building systems in centralized finance and Web2, I made the decision to go on-chain. Now, I’m on the path to becoming a Smart Contract Engineer, with a sharp eye for intelligent systems, decentralized logic and post-quantum security. 
+I'm Rebeca, a Process Automation Tech Lead in the banking industry. After years of building systems in centralized finance and Web2, I made the decision to go on-chain. Now, I’m on the path to becoming a Smart Contract Security Engineer, with a sharp eye for intelligent systems, decentralized logic and post-quantum security. 
 
 My foundation is in automation, but curiosity drives me to explore where systems and intelligence intersect: whether it’s on-chain, through AI agents, or via open-source intelligence (OSINT).
 
