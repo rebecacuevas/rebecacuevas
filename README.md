@@ -1,23 +1,29 @@
-<h1 align="center"> Hi, I'm Rebeca Cuevas :vulcan_salute:</h1>
-<h3 align="center">Software developer by day, builder by night </h3><br>
+<h1 align="center"> Hey, welcome to my lab. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
+
+## I'm Rebeca, an engineer working across data, automation and infrastructure
+
+My professional background is in enterprise banking systems, where I've spent years dealing with high-volume data, workflow automation and technical leadership.
+
+I'm expanding my engineering practice across data, cloud, infrastructure, security and AI to work closer into the underlying technologies that power modern systems.
+- Data pipelines and data-intensive systems
+- Cloud infrastructure and automation
+- Containerized applications
+- Infrastructure as Code
+- AI-assisted engineering workflows
+- DevSecOps
 
 
-🧠 Automation Tech Lead 🛠️ Smart Contract Security Engineer 🧬 AI Engineering & OSINT Explorer
+My goal is simple: build reliable systems that add value.
 
----
 
-## ⚡ About Me
+![Python](https://img.shields.io/badge/python-0078d7.svg?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-red.svg?style=for-the-badge&logo=sql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-404040.svg?style=for-the-badge&logo=linux&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-navy.svg?style=for-the-badge&logo=aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-blue.svg?style=for-the-badge&logo=azure&logoColor=white)
+![Git](https://img.shields.io/badge/git-C45E00.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-I'm Rebeca, a Process Automation Tech Lead in the banking industry. After years of building systems in centralized finance and Web2, I made the decision to go on-chain. Now, I’m on the path to becoming a Smart Contract Security Engineer, with a sharp eye for intelligent systems, decentralized logic and post-quantum security. 
-
-My foundation is in automation, but curiosity drives me to explore where systems and intelligence intersect: whether it’s on-chain, through AI agents, or via open-source intelligence (OSINT).
-
-I’ve spent the last two years deepening my expertise in **cyber intelligence** as a strategist who uses intel to understand systems, narratives, and risks.
-
-I'm also the founder of **Ekogroup México**, the official Mexican chapter of **Ekoparty**, the largest cybersecurity conference in LATAM, where we explore cutting-edge tech, threat intelligence, and hacker culture through community.
-
----
-
-## 🎯 Side Quests
-- Learning all I can about ML/DL and AI Engineering. 
-- Fun fact **I'm a huge language geek**: Spanish, English, Brazilian Portuguese are my strong suit. Swedish is my new challenge!
+### Beyond the stack 
+I have a long-standing interest in blockchain and decentralized systems, which I keep as an independent technical track (follow the white rabbit).
